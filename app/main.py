@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 import joblib
 import numpy as np
-from .schemas import HeartFeatures
+from .schemas import HeartDiseaseInput as HeartFeatures
 
 app = FastAPI(title="Heart Disease Prediction API", version="1.0")
 
