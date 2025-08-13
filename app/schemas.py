@@ -1,6 +1,7 @@
+# app/schemas.py
 from pydantic import BaseModel
 
-class HeartFeatures(BaseModel):
+class HeartDiseaseInput(BaseModel):
     age: float
     sex: int
     cp: int
