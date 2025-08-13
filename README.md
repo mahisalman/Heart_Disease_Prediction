@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction API
-# 🚀 **Live API**: [Swagger Docs](https://heart-disease-prediction-joq2.onrender.com/docs#/)
-
+# 👉 **Live API**: [Swagger Docs](https://heart-disease-prediction-joq2.onrender.com/docs#/)
+# 🚀 **Live APPLICATION**: [Heart Disease Prediction Application](https://heart-disease-prediction-joq2.onrender.com/)
 A **FastAPI**-based machine learning application that predicts the likelihood of heart disease based on patient health metrics.  
 The model is trained using a Random Forest Classifier on the [Kaggle Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
@@ -117,4 +117,5 @@ I included:
 Do you want me to also include a **cURL command** example so users can test `/predict` directly from the terminal? That could make the README even more developer-friendly.
 
 ```
+
 
