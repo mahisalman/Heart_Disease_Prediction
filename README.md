@@ -96,7 +96,7 @@ Request Body:
 }
 ```
 Response:
-```
+
 {
   "heart_disease": true
 }
@@ -117,5 +117,6 @@ I included:
 Do you want me to also include a **cURL command** example so users can test `/predict` directly from the terminal? That could make the README even more developer-friendly.
 
 ```
+
 
 
